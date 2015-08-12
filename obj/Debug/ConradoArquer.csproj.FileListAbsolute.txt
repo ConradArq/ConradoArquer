@@ -1,6 +1,0 @@
-c:\users\conrado\documents\visual studio 2013\Projects\Projects\ConradoArquer\ConradoArquer\bin\ConradoArquer.dll.config
-c:\users\conrado\documents\visual studio 2013\Projects\Projects\ConradoArquer\ConradoArquer\bin\ConradoArquer.dll
-c:\users\conrado\documents\visual studio 2013\Projects\Projects\ConradoArquer\ConradoArquer\bin\ConradoArquer.pdb
-c:\users\conrado\documents\visual studio 2013\Projects\Projects\ConradoArquer\ConradoArquer\obj\Debug\ConradoArquer.csprojResolveAssemblyReference.cache
-c:\users\conrado\documents\visual studio 2013\Projects\Projects\ConradoArquer\ConradoArquer\obj\Debug\ConradoArquer.dll
-c:\users\conrado\documents\visual studio 2013\Projects\Projects\ConradoArquer\ConradoArquer\obj\Debug\ConradoArquer.pdb

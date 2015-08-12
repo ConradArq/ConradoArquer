@@ -117,15 +117,19 @@ hr{
     margin:10%;
     text-align:justify;
 }
-#about>img{
-    max-width:18%;
-    height:auto;
-    float:left;
-    border-radius:50%;
-    shape-outside:border-box;
-    shape-margin:0.5em;
-    margin-right:0.5em;
-}
+    #about > img {
+        max-width: 18%;
+        height: auto;
+        float: left;
+        -moz-border-radius: 50%;
+        -webkit-border-radius: 50%;
+        border-radius: 50%;
+        -webkit-shape-outside: border-box;
+        shape-outside: border-box;
+        -webkit-shape-margin: 0.5em;
+        shape-margin: 0.5em;
+        margin-right: 0.5em;
+    }
 .bio{
     line-height:1.3em;
     font-style:italic;
